@@ -5,9 +5,3 @@ url: "https://host.manufacturist.org" # the base hostname & protocol for your si
 
 # Build Settings
 exclude: [README.md", "assets", "*.yml", "*.sh"]
-
-plugins:
-  - jekyll-feed
-
-feed:
-  path: rss/index.xml
