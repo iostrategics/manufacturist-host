@@ -10,4 +10,4 @@ plugins:
   - jekyll-feed
 
 feed:
-  path: rss/index.html
+  path: rss/index.xml
